@@ -90,14 +90,15 @@ My goal is to start my career as a SOC Analyst (Tier 1) and gain practical exper
 
 
 ## Certifications
+## Certifications
 
 <div>
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/35D20JOAB7SX">
 
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
-Security Operations Center (SOC) — Cisco
+<b>Cisco</b> — Security Operations Center (SOC)
 
 </a>
 
@@ -107,9 +108,13 @@ Security Operations Center (SOC) — Cisco
 
 <div>
 
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+<a href="https://github.com/PourushPawar/pour-portfo/blob/main/certificates/internship.pdf">
 
-Artificial Intelligence Internship (2 Months) — Microsoft & AICTE
+<img src="https://img.shields.io/badge/-Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<b>Microsoft & AICTE</b> — Artificial Intelligence Internship (2 Months)
+
+</a>
 
 </div>
 
@@ -117,11 +122,16 @@ Artificial Intelligence Internship (2 Months) — Microsoft & AICTE
 
 <div>
 
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<a href="https://github.com/PourushPawar/pour-portfo/blob/main/certificates/google%20cert.pdf">
 
-Introduction to Generative AI — Google Cloud
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<b>Google Cloud</b> — Introduction to Generative AI
+
+</a>
 
 </div>
+
 
 
 
