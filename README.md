@@ -90,14 +90,40 @@ My goal is to start my career as a SOC Analyst (Tier 1) and gain practical exper
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/35D20JOAB7SX">
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+Security Operations Center (SOC) — Cisco
+
+</a>
+
 </div>
+
+<br>
+
+<div>
+
+<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+Artificial Intelligence Internship (2 Months) — Microsoft & AICTE
+
+</div>
+
+<br>
+
+<div>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+Introduction to Generative AI — Google Cloud
+
+</div>
+
+
 
 ## Projects
 - Detection Lab
