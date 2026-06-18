@@ -11,7 +11,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and gain practical exper
 
 | Skill                            | Associated Project    |
 | -------------------------------- | --------------------- |
-| SIEM Deployment and Log Analysis | Wazuh SIEM Lab        |
+| SIEM Deployment and Log Analysis | <a href="https://github.com/PourushPawar/wazuh-siem-lab" target="_blank"> Wazuh SIEM Lab</a>    |
 | Windows Endpoint Monitoring      | Wazuh SIEM Lab        |
 | Linux Administration             | SOC Home Lab          |
 | Security Event Investigation     | Wazuh SIEM Lab        |
@@ -136,5 +136,5 @@ My goal is to start my career as a SOC Analyst (Tier 1) and gain practical exper
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/PourushPawar/wazuh-siem-lab" target="_blank">🖥️🛡️ Wazuh SIEM Lab</a>
 - SOC Automation Project
